@@ -7,6 +7,34 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+
+/* Ajouts */
+header img{
+    height: 40px;
+}
+section:nth-of-type(1) img{
+    width: 100px;
+}
+blockquote{
+    margin: 0;
+    padding: 0;
+    
+}
+blockquote p{
+    font-size: 1.2em;
+    text-align: center;
+    margin: 15px;
+    font-style: italic; 
+}
+figcaption{
+    font-size: 1.3em;
+    margin: 0px 20px;
+}
+
+/* Fin ajouts */
+
+
+
 a,
 button {
     transition: all .3s ease-in-out;
@@ -707,6 +735,7 @@ p {
 h2 {
     font-size: 22px;
     line-height: 1.4em;
+    margin: 0px 20px;
 }
 
 h3 {
@@ -894,7 +923,7 @@ h4 {
         overflow-x: hidden;
         position: relative;
     }
-    h1,
+    /* h1,
     h2,
     h3,
     h4,
@@ -902,9 +931,9 @@ h4 {
     h6,
     p,
     #disqus_thread {
-        padding-left: 10px!important;
-        padding-right: 10px!important;
-    }
+        padding-left: 10px;
+        padding-right: 10px;
+    } */
     .b-parallax {
         background-attachment: scroll;
     }
