@@ -25,6 +25,7 @@ header img {
 #bloc-2-services figcaption {
   font-size: 1.3em;
   margin: 0px 20px;
+  color: #575757;
 }
 
 /* Fin ajouts */
@@ -113,7 +114,7 @@ a:hover {
 }
 
 .texture-paper::before {
-  background: url("img/texture-paper.png");
+  background: url("img/texture-paper.webp");
   background-size: 280px 280px;
 }
 
@@ -309,7 +310,7 @@ a:hover {
   font-size: 32px;
 }
 #bloc-1-hero img{
-    border-radius: 45%;
+    width: 100px;
 }
 .navbar {
   margin-bottom: 0;
@@ -855,7 +856,7 @@ a:hover {
     }
 
     p {
-    font-size: 11px;
+    font-size: 12px;
     }
 
     .tight-width-whitespace {
@@ -870,7 +871,6 @@ a:hover {
 
     .cta-hero {
     margin-top: 22px;
-    color: #ffffff !important;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
     font-size: 16px;
@@ -879,7 +879,7 @@ a:hover {
 
     .social {
     max-width: 400px;
-    margin: auto auto auto auto;
+    margin: auto;
     }
 
     h2 {
@@ -919,6 +919,7 @@ a:hover {
 
     .portfolio-thumb {
     margin-bottom: 24px;
+    width: 100%;
     }
 
     .portfolio-row {
