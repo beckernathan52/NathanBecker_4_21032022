@@ -1,5 +1,5 @@
 # Projet N°4: "Optimisez un site web existant", Parcours "Développeur Web" Openclassrooms
-<h2>Consignes et compétences évaluées:</h2>
+<h2>Objectifs et compétences évaluées:</h2>
 <ul>
   <li>
     Écrire un code HTML et CSS maintenable
