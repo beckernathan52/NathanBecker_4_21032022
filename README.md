@@ -1,4 +1,4 @@
-# Projet N°4: "Optimisez un site web existant", Parcours "Développeur Web" Openclassrooms
+# Projet n°4: "Optimisez un site web existant", Parcours "Développeur Web" Openclassrooms
 <h2>Objectifs et compétences évaluées:</h2>
 <ul>
   <li>
